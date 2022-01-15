@@ -9,7 +9,7 @@
 
  pkg install python
 
- https://github.com/cood-filter-rubika/sms-bombar
+ git clone https://github.com/cood-filter-rubika/sms-bombar
  
  cd sms-bombar
 
