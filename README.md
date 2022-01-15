@@ -1,7 +1,9 @@
 # sms-bombar
 اس ام اس بمبر با ترموکس😯😈
 
+ pip install -r requirements.txt
 
+ pip install colorama
 
  pkg install git 
 
@@ -12,3 +14,5 @@
  cd sms-bombar
 
  python bomber.py
+
+#تمام
